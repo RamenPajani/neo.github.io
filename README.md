@@ -1,1 +1,1 @@
-# neo.github.io
+# neo
